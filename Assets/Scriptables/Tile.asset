@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ed3cc4999396bc4da9c6ba5a01286cf, type: 3}
+  m_Name: Tile
+  m_EditorClassIdentifier: 
+  terrainList:
+  - {fileID: 4496982214356636794, guid: ee9498ddfeb9d554594dfc9a6b9e94d7, type: 3}
+  - {fileID: 8341608438089188353, guid: 1f05425f67085df45a12c9a34743dd56, type: 3}
+  - {fileID: 8341608438089188353, guid: ab4134d4c6a0d0f479466197e0d0e394, type: 3}
+  - {fileID: 8341608438089188353, guid: 2af246750e38ce642a337a6713aa634a, type: 3}
+  maxInSuccession: 5
